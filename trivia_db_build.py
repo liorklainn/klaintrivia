@@ -4,7 +4,6 @@ import os
 
 # Load OpenAI API key from environment variable
 client = OpenAI(
-    # defaults to os.environ.get("OPENAI_API_KEY")
     api_key=os.getenv("OPENAI_API_KEY"),
 )
 
@@ -32,10 +31,11 @@ def generate_trivia_questions_and_answers(topic, existing_questions, num_questio
             "role": "user",
             "content": (
                 f"Generate {num_questions} unique True/False trivia questions with their answers on the topic of '{topic}'. "
-                "The questions should be concise, non-repetitive, and educational. Provide only 'True' or 'False' as the answer. "
+                "The questions should be concise, non-repetitive, and educational. "
+                "Ensure that half of the answers are 'True' and the other half are 'False'. "
                 "Avoid any questions that have already been generated below:\n\n" +
                 "\n".join(existing_questions) +
-                "\n\nNew questions with answers:"
+                "\n\nNew questions with answers in the format 'True or False: <question> (True/False)':"
             )
         }
     ]
@@ -50,20 +50,22 @@ def generate_trivia_questions_and_answers(topic, existing_questions, num_questio
     response_lines = response.choices[0].message.content.strip().split("\n")
     
     questions_and_answers = []
-    question = None  # To hold the current question being processed
+    
     for line in response_lines:
         line = line.strip()  # Remove extra spaces
         if not line:
             continue  # Skip empty lines
         
-        # If it's a question (ends with '?'), store it
-        if line.endswith("."):
-            question = line
-        # Otherwise, it's the answer (check if it contains 'true' or 'false')
-        elif question and ("true" in line.lower() or "false" in line.lower()):
-            answer = "True" if "true" in line.lower() else "False"  # Set 'True' or 'False'
+        # Parse the question and answer from the format "True or False: <question> (True/False)"
+        if "True or False:" in line and "(" in line and ")" in line:
+            question_part = line.split(" (")[0].strip()  # Extracts "True or False: <question>"
+            answer_part = line.split(" (")[1].strip(")")  # Extracts "True" or "False"
+            
+            # Clean up question text to remove the "True or False:" prefix
+            question = question_part.replace("True or False:", "").strip()
+            answer = "True" if "true" in answer_part.lower() else "False"
+            
             questions_and_answers.append((question, answer))
-            question = None  # Reset question for next pair
     
     return questions_and_answers
 
