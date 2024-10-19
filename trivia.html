@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>True/False Trivia Game</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS', sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            color: #2b3e50;
+            text-shadow: 2px 2px 5px #666;
+        }
+        .question-container, .leaderboard {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .question-container p {
+            font-size: 2rem;
+            margin-bottom: 40px;
+        }
+        .btn {
+            width: 40%;
+            padding: 15px;
+            margin: 10px;
+            border: none;
+            color: white;
+            font-size: 1.5rem;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+        }
+        .btn-true {
+            background-color: #4CAF50;
+        }
+        .btn-false {
+            background-color: #F44336;
+        }
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
+        }
+        .score, .result, .timer {
+            text-align: center;
+            font-size: 2rem;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .timer {
+            color: #ff5722;
+            font-size: 2.5rem;
+        }
+        .score {
+            color: #2b3e50;
+        }
+        .result {
+            margin-top: 10px;
+        }
+        #leaderboard h3 {
+            font-size: 2rem;
+            color: #2b3e50;
+            text-shadow: 2px 2px 5px #666;
+        }
+        #leaderboard p {
+            font-size: 1.5rem;
+        }
+        .level-btn {
+            background-color: #ff9800;
+            border-radius: 15px;
+            padding: 20px 40px;
+            font-size: 2rem;
+            color: white;
+            margin: 10px;
+            cursor: pointer;
+            text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+            transition: all 0.3s ease-in-out;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+        .level-btn:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+        }
+        .level-btn:active {
+            transform: scale(0.98);
+        }
+        .level-btn.easy {
+            background-color: #4CAF50;
+        }
+        .level-btn.medium {
+            background-color: #2196F3;
+        }
+        .level-btn.hard {
+            background-color: #F44336;
+        }
+    </style>
+</head>
+<body>
+    <h1>True/False Trivia Game</h1>
+    <div id="difficulty-container">
+        <p>Select Difficulty:</p>
+        <button class="level-btn easy" onclick="setDifficulty('easy')">Easy</button>
+        <button class="level-btn medium" onclick="setDifficulty('medium')">Medium</button>
+        <button class="level-btn hard" onclick="setDifficulty('hard')">Hard</button>
+    </div>
+    <div id="score" class="score">Score: 0</div>  <!-- Score display -->
+    <div id="game-container" class="question-container"></div>
+    <div id="result"></div>
+    <div id="timer" class="timer">Time left: 0</div>  <!-- Timer display -->
+    <div id="leaderboard" class="leaderboard"></div>
+
+    <script src="trivia.js"></script>
+</body>
+</html>
