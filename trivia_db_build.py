@@ -83,7 +83,7 @@ def main(topic, file_path, num_questions=5):
         print(f"New question added: {question} (Answer: {answer})")
 
 if __name__ == "__main__":
-    topic = "Food"  # Change this topic to whatever you prefer
+    topic = "Animals"  # Change this topic to whatever you prefer
     file_path = "trivia_questions.jsonl"  # Path to the jsonl file
     num_questions = 20
     

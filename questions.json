@@ -1,5 +1,325 @@
 [
     {
+        "question": "1.  Seahorses are the only species in which the males give birth.",
+        "answer": "True"
+    },
+    {
+        "question": "2.  Elephants are capable of recognizing themselves in a mirror, demonstrating self-awareness.",
+        "answer": "True"
+    },
+    {
+        "question": "3.  Kangaroos cannot walk backward.",
+        "answer": "True"
+    },
+    {
+        "question": "4.  Frogs can freeze solid and then thaw, and still survive.",
+        "answer": "True"
+    },
+    {
+        "question": "5.  Bats are blind.",
+        "answer": "False"
+    },
+    {
+        "question": "6.  Octopuses have three hearts.",
+        "answer": "True"
+    },
+    {
+        "question": "7.  Cows can sleep while standing up.",
+        "answer": "True"
+    },
+    {
+        "question": "8.  Crocodiles can live for over 100 years.",
+        "answer": "True"
+    },
+    {
+        "question": "9.  All penguins live in cold climates.",
+        "answer": "False"
+    },
+    {
+        "question": "10.  Sloths only come down from trees once a week to defecate.",
+        "answer": "True"
+    },
+    {
+        "question": "11.  Polar bears' skin is black.",
+        "answer": "True"
+    },
+    {
+        "question": "12.  Dolphins are fish.",
+        "answer": "False"
+    },
+    {
+        "question": "13.  Ostriches bury their heads in the sand when scared.",
+        "answer": "False"
+    },
+    {
+        "question": "14.  Snakes smell with their tongues.",
+        "answer": "True"
+    },
+    {
+        "question": "15.  Bees can recognize human faces.",
+        "answer": "True"
+    },
+    {
+        "question": "16.  Tarantulas are venomous to humans.",
+        "answer": "False"
+    },
+    {
+        "question": "17.  Alligators are faster than horses on land.",
+        "answer": "False"
+    },
+    {
+        "question": "18.  Ferrets are rodents.",
+        "answer": "False"
+    },
+    {
+        "question": "19.  Hammerhead sharks are only found in saltwater oceans.",
+        "answer": "True"
+    },
+    {
+        "question": "20.  Rats cannot vomit.",
+        "answer": "True"
+    },
+    {
+        "question": "Rhinoceros horn is made of bone.",
+        "answer": "False"
+    },
+    {
+        "question": "Cheetahs are the fastest land animals.",
+        "answer": "True"
+    },
+    {
+        "question": "Penguins have knees that bend backward.",
+        "answer": "True"
+    },
+    {
+        "question": "Goldfish have a three-second memory span.",
+        "answer": "False"
+    },
+    {
+        "question": "Owls can turn their heads 360 degrees.",
+        "answer": "False"
+    },
+    {
+        "question": "Giraffes have the same number of vertebrae in their necks as humans.",
+        "answer": "True"
+    },
+    {
+        "question": "Komodo dragons are venomous.",
+        "answer": "True"
+    },
+    {
+        "question": "Sharks must constantly move to stay alive.",
+        "answer": "False"
+    },
+    {
+        "question": "Koalas are bears.",
+        "answer": "False"
+    },
+    {
+        "question": "Bees communicate through dancing.",
+        "answer": "True"
+    },
+    {
+        "question": "Polar bears feed primarily on penguins.",
+        "answer": "False"
+    },
+    {
+        "question": "Gorillas are herbivores.",
+        "answer": "True"
+    },
+    {
+        "question": "Humpback whales sing songs that can last up to 20 minutes.",
+        "answer": "True"
+    },
+    {
+        "question": "Pigs are unable to sweat.",
+        "answer": "True"
+    },
+    {
+        "question": "Seahorses mate for life.",
+        "answer": "True"
+    },
+    {
+        "question": "Jaguars can swim.",
+        "answer": "True"
+    },
+    {
+        "question": "Turtles can breathe through their bottoms.",
+        "answer": "False"
+    },
+    {
+        "question": "Flamingos are naturally white.",
+        "answer": "False"
+    },
+    {
+        "question": "Hyenas are members of the cat family.",
+        "answer": "False"
+    },
+    {
+        "question": "Bison can jump higher than an average house.",
+        "answer": "False"
+    },
+    {
+        "question": "Chameleons change color to blend in with their environment.",
+        "answer": "True"
+    },
+    {
+        "question": "Honey bees communicate through dancing.",
+        "answer": "True"
+    },
+    {
+        "question": "Elephants are the only animals that can't jump.",
+        "answer": "True"
+    },
+    {
+        "question": "A group of flamingos is called a flamboyance.",
+        "answer": "False"
+    },
+    {
+        "question": "Whales are fish.",
+        "answer": "False"
+    },
+    {
+        "question": "Giraffes only sleep for about 2 hours a day.",
+        "answer": "True"
+    },
+    {
+        "question": "Cats have a sense of taste for sweetness.",
+        "answer": "False"
+    },
+    {
+        "question": "Rhinoceroses are excellent swimmers.",
+        "answer": "True"
+    },
+    {
+        "question": "Jaguars are native to Asia.",
+        "answer": "False"
+    },
+    {
+        "question": "Squirrels hibernate in the winter.",
+        "answer": "False"
+    },
+    {
+        "question": "Polar bears have transparent fur.",
+        "answer": "False"
+    },
+    {
+        "question": "Beavers have transparent eyelids to see underwater.",
+        "answer": "True"
+    },
+    {
+        "question": "Gorillas have unique fingerprints just like humans.",
+        "answer": "True"
+    },
+    {
+        "question": "All snakes are venomous.",
+        "answer": "False"
+    },
+    {
+        "question": "Hippos can't swim.",
+        "answer": "False"
+    },
+    {
+        "question": "Crows are known to hold grudges against humans.",
+        "answer": "True"
+    },
+    {
+        "question": "The lifespan of a housefly is 1 day.",
+        "answer": "False"
+    },
+    {
+        "question": "Crocodiles cry tears when they eat their prey.",
+        "answer": "False"
+    },
+    {
+        "question": "Wolves howl at the moon.",
+        "answer": "False"
+    },
+    {
+        "question": "Armadillos are the only mammals that can contract leprosy.",
+        "answer": "True"
+    },
+    {
+        "question": "1.  Flamingos are naturally white.",
+        "answer": "False"
+    },
+    {
+        "question": "2.  Bees communicate through dancing.",
+        "answer": "True"
+    },
+    {
+        "question": "3.  Pigs are unable to sweat.",
+        "answer": "True"
+    },
+    {
+        "question": "4.  Seahorses mate for life.",
+        "answer": "True"
+    },
+    {
+        "question": "5.  Jaguars can swim.",
+        "answer": "True"
+    },
+    {
+        "question": "6.  Turtles can breathe through their bottoms.",
+        "answer": "False"
+    },
+    {
+        "question": "7.  Bison can jump higher than an average house.",
+        "answer": "False"
+    },
+    {
+        "question": "8.  Crows are known to hold grudges against humans.",
+        "answer": "True"
+    },
+    {
+        "question": "9.  Whales are fish.",
+        "answer": "False"
+    },
+    {
+        "question": "10.  Honey bees communicate through dancing.",
+        "answer": "True"
+    },
+    {
+        "question": "11.  Sloths only come down from trees once a week to defecate.",
+        "answer": "True"
+    },
+    {
+        "question": "12.  Owls can turn their heads 360 degrees.",
+        "answer": "False"
+    },
+    {
+        "question": "13.  Giraffes have the same number of vertebrae in their necks as humans.",
+        "answer": "True"
+    },
+    {
+        "question": "14.  Chameleons change color to blend in with their environment.",
+        "answer": "False"
+    },
+    {
+        "question": "15.  Hammerhead sharks are only found in saltwater oceans.",
+        "answer": "True"
+    },
+    {
+        "question": "16.  Rats cannot vomit.",
+        "answer": "True"
+    },
+    {
+        "question": "17.  Elephants are the only animals that can't jump.",
+        "answer": "False"
+    },
+    {
+        "question": "18.  Beavers have transparent eyelids to see underwater.",
+        "answer": "False"
+    },
+    {
+        "question": "19.  Gorillas have unique fingerprints just like humans.",
+        "answer": "True"
+    },
+    {
+        "question": "20.  Crocodiles cry tears when they eat their prey.",
+        "answer": "False"
+    },
+    {
         "question": "The world's most popular fruit is the tomato.",
         "answer": "False"
     },
@@ -278,5 +598,202 @@
     {
         "question": "Nutmeg is a seed, not a nut.",
         "answer": "True"
-    }
+    },
+    {
+		"question": "1. Israel is the smallest country in the Middle East.",
+		"answer": "False"
+	},
+	{
+		"question": "2. Hebrew and Arabic are the two official languages of Israel.",
+		"answer": "True"
+	},
+	{
+		"question": "3. The Dead Sea borders Israel to the east.",
+		"answer": "True"
+	},
+	{
+		"question": "4. Tel Aviv is the capital city of Israel.",
+		"answer": "False"
+	},
+	{
+		"question": "5. Israel is known for its strong focus on technology and innovation.",
+		"answer": "True"
+	},
+	{
+		"question": "6. The Old City of Jerusalem is divided into four quarters: Jewish, Christian, Muslim, and Armenian.",
+		"answer": "True"
+	},
+	{
+		"question": "7. The official currency of Israel is the Israeli Shekel.",
+		"answer": "True"
+	},
+	{
+		"question": "8. Israel shares a border with Lebanon.",
+		"answer": "True"
+	},
+	{
+		"question": "9. The national symbol of Israel is the menorah.",
+		"answer": "True"
+	},
+	{
+		"question": "10. The Israeli flag features the Star of David in the center.",
+		"answer": "True"
+	},
+	{
+		"question": "1. The national bird of Israel is the golden eagle.",
+		"answer": "False"
+	},
+	{
+		"question": "2. Israel has a unicameral legislative body called the Knesset.",
+		"answer": "True"
+	},
+	{
+		"question": "3. The highest point in Israel is Mount Herzl.",
+		"answer": "False"
+	},
+	{
+		"question": "4. The city of Haifa is known for its beautiful Bahá'í Gardens.",
+		"answer": "True"
+	},
+	{
+		"question": "6. Israel does not have any deserts within its borders.",
+		"answer": "False"
+	},
+	{
+		"question": "7. The Negev Desert covers more than half of Israel's total land area.",
+		"answer": "True"
+	},
+	{
+		"question": "8. The city of Beersheba is considered the capital of the Negev region.",
+		"answer": "True"
+	},
+	{
+		"question": "9. The Mediterranean Sea borders Israel to the west.",
+		"answer": "True"
+	},
+	{
+		"question": "10. The city of Eilat is the southernmost city in Israel.",
+		"answer": "True"
+	},
+	{
+		"question": "1. The national anthem of Israel is called \"Hatikvah\".",
+		"answer": "True"
+	},
+	{
+		"question": "2. The city of Nazareth is located in northern Israel.",
+		"answer": "True"
+	},
+	{
+		"question": "3. Israel has won the Eurovision Song Contest multiple times.",
+		"answer": "True"
+	},
+	{
+		"question": "4. The official national sport of Israel is soccer.",
+		"answer": "False"
+	},
+	{
+		"question": "5. The city of Caesarea in Israel is known for its ancient Roman ruins.",
+		"answer": "True"
+	},
+	{
+		"question": "6. Israel is a landlocked country.",
+		"answer": "False"
+	},
+	{
+		"question": "7. The currency of Israel is not accepted in any other country.",
+		"answer": "False"
+	},
+	{
+		"question": "8. The Israeli national dish is falafel.",
+		"answer": "True"
+	},
+	{
+		"question": "9. The city of Bethlehem is located within the boundaries of Israel.",
+		"answer": "False"
+	},
+	{
+		"question": "10. The city of Jaffa is a historic port city in Israel.",
+		"answer": "True"
+	},
+	{
+		"question": "1. Israel is a parliamentary democracy.",
+		"answer": "True"
+	},
+	{
+		"question": "2. The Western Wall in Jerusalem is a holy site for Jewish prayers.",
+		"answer": "True"
+	},
+	{
+		"question": "3. Israel is a member of the North Atlantic Treaty Organization (NATO).",
+		"answer": "False"
+	},
+	{
+		"question": "4. The Israeli flag consists of two horizontal blue stripes with a Star of David in the center.",
+		"answer": "True"
+	},
+	{
+		"question": "5. The city of Safed is known for its history as a center of Kabbalah.",
+		"answer": "True"
+	},
+	{
+		"question": "6. The Independence Hall in Tel Aviv is where the State of Israel was declared in 1948.",
+		"answer": "True"
+	},
+	{
+		"question": "7. The city of Akko/Acre is a UNESCO World Heritage Site in Israel.",
+		"answer": "True"
+	},
+	{
+		"question": "8. The city of Tiberias is located along the shores of the Sea of Galilee in Israel.",
+		"answer": "True"
+	},
+	{
+		"question": "9. The national flower of Israel is the cyclamen.",
+		"answer": "False"
+	},
+	{
+		"question": "10. The city of Netanya is famous for its sandy beaches along the Mediterranean coast.",
+		"answer": "True"
+	},
+	{
+		"question": "11. The city of Ashdod is one of the oldest cities in the world.",
+		"answer": "False"
+	},
+	{
+		"question": "12. Israel is a leading exporter of cut diamonds worldwide.",
+		"answer": "True"
+	},
+	{
+		"question": "13. The city of Rosh HaNikra is known for its white chalk cliffs and grottoes.",
+		"answer": "True"
+	},
+	{
+		"question": "14. The city of Herzliya is a major center for high-tech companies in Israel.",
+		"answer": "True"
+	},
+	{
+		"question": "15. The national tree of Israel is the olive tree.",
+		"answer": "True"
+	},
+	{
+		"question": "16. The city of Ramallah is under full Israeli control.",
+		"answer": "False"
+	},
+	{
+		"question": "17. Israel has a high-speed railway system connecting major cities.",
+		"answer": "True"
+	},
+	{
+		"question": "18. The city of Jericho is located in the West Bank and is one of the oldest inhabited cities in the world.",
+		"answer": "False"
+	},
+	{
+		"question": "19. The Israeli national soccer team has won the FIFA World Cup.",
+		"answer": "False"
+	},
+	{
+		"question": "20. The city of Hebron is a holy site for Jews, Muslims, and Christians.",
+		"answer": "True"
+	}
+
 ]
