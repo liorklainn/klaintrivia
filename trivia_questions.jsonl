@@ -1,80 +1,310 @@
-{"question": "1.  Seahorses are the only species in which the males give birth.", "answer": "True"}
-{"question": "2.  Elephants are capable of recognizing themselves in a mirror, demonstrating self-awareness.", "answer": "True"}
-{"question": "3.  Kangaroos cannot walk backward.", "answer": "True"}
-{"question": "4.  Frogs can freeze solid and then thaw, and still survive.", "answer": "True"}
-{"question": "5.  Bats are blind.", "answer": "False"}
-{"question": "6.  Octopuses have three hearts.", "answer": "True"}
-{"question": "7.  Cows can sleep while standing up.", "answer": "True"}
-{"question": "8.  Crocodiles can live for over 100 years.", "answer": "True"}
-{"question": "9.  All penguins live in cold climates.", "answer": "False"}
-{"question": "10.  Sloths only come down from trees once a week to defecate.", "answer": "True"}
-{"question": "11.  Polar bears' skin is black.", "answer": "True"}
-{"question": "12.  Dolphins are fish.", "answer": "False"}
-{"question": "13.  Ostriches bury their heads in the sand when scared.", "answer": "False"}
-{"question": "14.  Snakes smell with their tongues.", "answer": "True"}
-{"question": "15.  Bees can recognize human faces.", "answer": "True"}
-{"question": "16.  Tarantulas are venomous to humans.", "answer": "False"}
-{"question": "17.  Alligators are faster than horses on land.", "answer": "False"}
-{"question": "18.  Ferrets are rodents.", "answer": "False"}
-{"question": "19.  Hammerhead sharks are only found in saltwater oceans.", "answer": "True"}
-{"question": "20.  Rats cannot vomit.", "answer": "True"}
-{"question": "Rhinoceros horn is made of bone.", "answer": "False"}
-{"question": "Cheetahs are the fastest land animals.", "answer": "True"}
-{"question": "Penguins have knees that bend backward.", "answer": "True"}
-{"question": "Goldfish have a three-second memory span.", "answer": "False"}
-{"question": "Owls can turn their heads 360 degrees.", "answer": "False"}
-{"question": "Giraffes have the same number of vertebrae in their necks as humans.", "answer": "True"}
-{"question": "Komodo dragons are venomous.", "answer": "True"}
-{"question": "Sharks must constantly move to stay alive.", "answer": "False"}
-{"question": "Koalas are bears.", "answer": "False"}
-{"question": "Bees communicate through dancing.", "answer": "True"}
-{"question": "Polar bears feed primarily on penguins.", "answer": "False"}
-{"question": "Gorillas are herbivores.", "answer": "True"}
-{"question": "Humpback whales sing songs that can last up to 20 minutes.", "answer": "True"}
-{"question": "Pigs are unable to sweat.", "answer": "True"}
-{"question": "Seahorses mate for life.", "answer": "True"}
-{"question": "Jaguars can swim.", "answer": "True"}
-{"question": "Turtles can breathe through their bottoms.", "answer": "False"}
-{"question": "Flamingos are naturally white.", "answer": "False"}
-{"question": "Hyenas are members of the cat family.", "answer": "False"}
-{"question": "Bison can jump higher than an average house.", "answer": "False"}
-{"question": "Chameleons change color to blend in with their environment.", "answer": "True"}
-{"question": "Honey bees communicate through dancing.", "answer": "True"}
-{"question": "Elephants are the only animals that can't jump.", "answer": "True"}
-{"question": "A group of flamingos is called a flamboyance.", "answer": "False"}
-{"question": "Whales are fish.", "answer": "False"}
-{"question": "Giraffes only sleep for about 2 hours a day.", "answer": "True"}
-{"question": "Cats have a sense of taste for sweetness.", "answer": "False"}
-{"question": "Rhinoceroses are excellent swimmers.", "answer": "True"}
-{"question": "Jaguars are native to Asia.", "answer": "False"}
-{"question": "Squirrels hibernate in the winter.", "answer": "False"}
-{"question": "Polar bears have transparent fur.", "answer": "False"}
-{"question": "Beavers have transparent eyelids to see underwater.", "answer": "True"}
-{"question": "Gorillas have unique fingerprints just like humans.", "answer": "True"}
-{"question": "All snakes are venomous.", "answer": "False"}
-{"question": "Hippos can't swim.", "answer": "False"}
-{"question": "Crows are known to hold grudges against humans.", "answer": "True"}
-{"question": "The lifespan of a housefly is 1 day.", "answer": "False"}
-{"question": "Crocodiles cry tears when they eat their prey.", "answer": "False"}
-{"question": "Wolves howl at the moon.", "answer": "False"}
-{"question": "Armadillos are the only mammals that can contract leprosy.", "answer": "True"}
-{"question": "1.  Flamingos are naturally white.", "answer": "False"}
-{"question": "2.  Bees communicate through dancing.", "answer": "True"}
-{"question": "3.  Pigs are unable to sweat.", "answer": "True"}
-{"question": "4.  Seahorses mate for life.", "answer": "True"}
-{"question": "5.  Jaguars can swim.", "answer": "True"}
-{"question": "6.  Turtles can breathe through their bottoms.", "answer": "False"}
-{"question": "7.  Bison can jump higher than an average house.", "answer": "False"}
-{"question": "8.  Crows are known to hold grudges against humans.", "answer": "True"}
-{"question": "9.  Whales are fish.", "answer": "False"}
-{"question": "10.  Honey bees communicate through dancing.", "answer": "True"}
-{"question": "11.  Sloths only come down from trees once a week to defecate.", "answer": "True"}
-{"question": "12.  Owls can turn their heads 360 degrees.", "answer": "False"}
-{"question": "13.  Giraffes have the same number of vertebrae in their necks as humans.", "answer": "True"}
-{"question": "14.  Chameleons change color to blend in with their environment.", "answer": "False"}
-{"question": "15.  Hammerhead sharks are only found in saltwater oceans.", "answer": "True"}
-{"question": "16.  Rats cannot vomit.", "answer": "True"}
-{"question": "17.  Elephants are the only animals that can't jump.", "answer": "False"}
-{"question": "18.  Beavers have transparent eyelids to see underwater.", "answer": "False"}
-{"question": "19.  Gorillas have unique fingerprints just like humans.", "answer": "True"}
-{"question": "20.  Crocodiles cry tears when they eat their prey.", "answer": "False"}
+{"topic": "Israel", "question": "The official language of Israel is Hebrew", "answer": "True"}
+{"topic": "Israel", "question": "Tel Aviv is the capital city of Israel", "answer": "False"}
+{"topic": "Israel", "question": "The Dead Sea is located in Israel", "answer": "True"}
+{"topic": "Israel", "question": "Israel is bordered by Lebanon to the north", "answer": "True"}
+{"topic": "Israel", "question": "The national bird of Israel is the hoopoe", "answer": "True"}
+{"topic": "Israel", "question": "Israel has a unicameral legislature", "answer": "False"}
+{"topic": "Israel", "question": "The flag of Israel features a six-pointed star known as the Star of David", "answer": "True"}
+{"topic": "Israel", "question": "The currency used in Israel is the shekel", "answer": "True"}
+{"topic": "Israel", "question": "Israel is known as the \"Land of Milk and Honey\" in reference to its agricultural fertility", "answer": "True"}
+{"topic": "Israel", "question": "Israel declared independence in the year 1948", "answer": "True"}
+{"topic": "Israel", "question": "Jerusalem is the capital city of Israel", "answer": "True"}
+{"topic": "Israel", "question": "The official currency of Israel is the Israeli pound", "answer": "False"}
+{"topic": "Israel", "question": "Israel has won the FIFA World Cup before", "answer": "False"}
+{"topic": "Israel", "question": "The Western Wall is the holiest site in Judaism located in Israel", "answer": "True"}
+{"topic": "Israel", "question": "Israel shares a border with Jordan to the east", "answer": "True"}
+{"topic": "Israel", "question": "The national flower of Israel is the cyclamen", "answer": "True"}
+{"topic": "Israel", "question": "Hebrew is the only official language spoken in Israel", "answer": "False"}
+{"topic": "Israel", "question": "The city of Haifa is located in southern Israel", "answer": "False"}
+{"topic": "Israel", "question": "The Menorah is a symbol of the Jewish state of Israel", "answer": "True"}
+{"topic": "Israel", "question": "Israel is both the smallest and youngest country in the Middle East", "answer": "False"}
+{"topic": "Israel", "question": "The Knesset is the name of the Israeli parliament", "answer": "True"}
+{"topic": "Israel", "question": "The city of Eilat is located on the Mediterranean coast of Israel", "answer": "False"}
+{"topic": "Israel", "question": "The national dish of Israel is hummus", "answer": "True"}
+{"topic": "Israel", "question": "Israel has a coastline along the Red Sea", "answer": "False"}
+{"topic": "Israel", "question": "The city of Beersheba is known for its high-tech industry in Israel", "answer": "True"}
+{"topic": "Israel", "question": "Mount Hermon, a ski resort, is located in southern Israel", "answer": "False"}
+{"topic": "Israel", "question": "The highest point in Israel is Mount Meron", "answer": "True"}
+{"topic": "Israel", "question": "The Baha'i Gardens in Haifa are a UNESCO World Heritage Site", "answer": "True"}
+{"topic": "Israel", "question": "Israel has a mandatory military service requirement for both men and women", "answer": "True"}
+{"topic": "Israel", "question": "The city of Nazareth is located in the northern region of Israel", "answer": "True"}
+{"topic": "Israel", "question": "The city of Ashdod is located on the Mediterranean coast of Israel", "answer": "True"}
+{"topic": "Israel", "question": "Israel is the only country in the world with a Jewish majority population", "answer": "True"}
+{"topic": "Israel", "question": "The official religion of Israel is Judaism", "answer": "False"}
+{"topic": "Israel", "question": "Israel has a desert climate in the Negev region", "answer": "True"}
+{"topic": "Israel", "question": "The technology company, Waze, was founded in Israel", "answer": "True"}
+{"topic": "Israel", "question": "The city of Jaffa is part of Tel Aviv-Yafo, one of Israel's largest cities", "answer": "True"}
+{"topic": "Israel", "question": "The national anthem of Israel is called \"Hatikvah\"", "answer": "True"}
+{"topic": "Israel", "question": "Israel has a national park called Masada, known for its historic significance", "answer": "True"}
+{"topic": "Israel", "question": "The Mediterranean Sea borders Israel to the west", "answer": "True"}
+{"topic": "Israel", "question": "The city of Netanya is known for its beautiful beaches along the Mediterranean coast", "answer": "True"}
+{"topic": "Israel", "question": "The Memorial and Museum at Auschwitz-Birkenau in Poland is dedicated to the victims of the Holocaust from Israel", "answer": "False"}
+{"topic": "Israel", "question": "The city of Tiberias is located along the shores of the Sea of Galilee in Israel", "answer": "True"}
+{"topic": "Israel", "question": "Israel has an official national flower called the anemone coronaria", "answer": "False"}
+{"topic": "Israel", "question": "The city of Ashkelon is famous for its archaeological sites dating back to ancient times", "answer": "True"}
+{"topic": "Israel", "question": "The Jewish holiday of Yom Kippur is also known as the Day of Atonement", "answer": "True"}
+{"topic": "Israel", "question": "Israel has a city named Petah Tikva, known for its diamond industry", "answer": "True"}
+{"topic": "Israel", "question": "The city of Rosh HaNikra is known for its white chalk cliffs along the Mediterranean Sea", "answer": "True"}
+{"topic": "Israel", "question": "The Galilee region in Israel is famous for its wineries and vineyards", "answer": "True"}
+{"topic": "Israel", "question": "Israel has a national park named Ein Gedi, known for its oasis and hiking trails", "answer": "True"}
+{"topic": "Israel", "question": "The city of Modi'in is located between Jerusalem and Tel Aviv in Israel", "answer": "True"}
+{"topic": "Israel", "question": "The city of Ashdod is located on the Mediterranean coast of Israel", "answer": "True"}
+{"topic": "Israel", "question": "Mount Hermon, a ski resort, is located in southern Israel", "answer": "False"}
+{"topic": "Israel", "question": "The national flower of Israel is the tulip", "answer": "False"}
+{"topic": "Israel", "question": "The Baha'i Gardens in Haifa are a UNESCO World Heritage Site", "answer": "True"}
+{"topic": "Israel", "question": "Israel has a mandatory military service requirement for men only", "answer": "False"}
+{"topic": "Israel", "question": "The city of Netanya is known for its beautiful beaches along the Red Sea", "answer": "False"}
+{"topic": "Israel", "question": "The Memorial and Museum at Auschwitz-Birkenau in Poland is dedicated to the victims of the Holocaust from Israel", "answer": "False"}
+{"topic": "Israel", "question": "The national dish of Israel is falafel", "answer": "False"}
+{"topic": "Israel", "question": "Israel has a national park named Timna Park, known for its unique rock formations", "answer": "True"}
+{"topic": "Israel", "question": "The Sea of Galilee is the largest freshwater lake in Israel", "answer": "True"}
+{"topic": "Israel", "question": "The Galilee region in Israel is known for its olive oil production", "answer": "True"}
+{"topic": "Israel", "question": "The city of Safed is located in southern Israel", "answer": "False"}
+{"topic": "Israel", "question": "The Israeli flag features a menorah", "answer": "False"}
+{"topic": "Israel", "question": "The city of Ramat Gan is known for its high concentration of technology companies", "answer": "True"}
+{"topic": "Israel", "question": "The national animal of Israel is the ibex", "answer": "True"}
+{"topic": "Israel", "question": "The city of Beer Sheva is known for its ancient water cisterns", "answer": "True"}
+{"topic": "Israel", "question": "The country code for Israel is 'ISR'", "answer": "True"}
+{"topic": "Israel", "question": "The city of Arad is located in the southern region of Israel", "answer": "False"}
+{"topic": "Israel", "question": "Israel is home to the lowest point on Earth, the Dead Sea", "answer": "True"}
+{"topic": "Israel", "question": "The city of Ariel is located on the border between Israel and Egypt", "answer": "False"}
+{"topic": "Animals", "question": "A group of flamingos is called a \"flamboyance.\"", "answer": "True"}
+{"topic": "Animals", "question": "Dolphins are mammals.", "answer": "True"}
+{"topic": "Animals", "question": "Honeybees are the only insects that produce food for humans.", "answer": "True"}
+{"topic": "Animals", "question": "Elephants can't jump.", "answer": "True"}
+{"topic": "Animals", "question": "Snakes don't have ears but can still hear.", "answer": "True"}
+{"topic": "Animals", "question": "Sharks are the only fish that can blink with both eyes.", "answer": "False"}
+{"topic": "Animals", "question": "Koalas are bears.", "answer": "False"}
+{"topic": "Animals", "question": "Penguins can fly.", "answer": "False"}
+{"topic": "Animals", "question": "Ostriches can run faster than horses.", "answer": "True"}
+{"topic": "Animals", "question": "Bees communicate by dancing.", "answer": "True"}
+{"topic": "Animals", "question": "Alligators are capable of living in saltwater.", "answer": "True"}
+{"topic": "Animals", "question": "Cows have four stomachs.", "answer": "True"}
+{"topic": "Animals", "question": "Seahorses are strong swimmers.", "answer": "False"}
+{"topic": "Animals", "question": "Polar bears have black skin underneath their white fur.", "answer": "True"}
+{"topic": "Animals", "question": "Emperor penguins are the tallest and heaviest penguin species.", "answer": "True"}
+{"topic": "Animals", "question": "Komodo dragons are venomous.", "answer": "False"}
+{"topic": "Animals", "question": "Sloths are known for their fast movements.", "answer": "False"}
+{"topic": "Animals", "question": "Cats have a unique fingerprint pattern on their nose, like humans.", "answer": "True"}
+{"topic": "Animals", "question": "Beavers eat fish.", "answer": "True"}
+{"topic": "Animals", "question": "Chameleons change color to blend in with their surroundings.", "answer": "True"}
+{"topic": "Animals", "question": "1.  Giraffes have the same number of vertebrae in their necks as humans do.", "answer": "True"}
+{"topic": "Animals", "question": "2.  Gorillas are primarily herbivores.", "answer": "True"}
+{"topic": "Animals", "question": "3.  All snakes are venomous.", "answer": "False"}
+{"topic": "Animals", "question": "4.  Tigers have striped skin, not just striped fur.", "answer": "True"}
+{"topic": "Animals", "question": "5.  Bats are blind.", "answer": "False"}
+{"topic": "Animals", "question": "6.  Jellyfish are considered fish.", "answer": "False"}
+{"topic": "Animals", "question": "7.  Wolves howl at the moon.", "answer": "False"}
+{"topic": "Animals", "question": "8.  Rabbits are rodents.", "answer": "False"}
+{"topic": "Animals", "question": "9.  Octopuses have three hearts.", "answer": "True"}
+{"topic": "Animals", "question": "10.  Hippos cannot swim.", "answer": "False"}
+{"topic": "Animals", "question": "11.  Blue whales are the largest animals on Earth.", "answer": "True"}
+{"topic": "Animals", "question": "12.  Cheetahs are excellent swimmers.", "answer": "False"}
+{"topic": "Animals", "question": "13.  Llamas spit as a way of defense.", "answer": "True"}
+{"topic": "Animals", "question": "14.  Rhinoceroses are herbivores.", "answer": "True"}
+{"topic": "Animals", "question": "15.  Platypuses lay eggs.", "answer": "True"}
+{"topic": "Animals", "question": "16.  Crickets are silent insects.", "answer": "False"}
+{"topic": "Animals", "question": "17.  Porcupines can shoot their quills.", "answer": "False"}
+{"topic": "Animals", "question": "18.  Pigs are very clean animals.", "answer": "True"}
+{"topic": "Animals", "question": "19.  Lemurs are only found in Madagascar.", "answer": "True"}
+{"topic": "Animals", "question": "20.  Eagles mate for life.", "answer": "True"}
+{"topic": "Animals", "question": "Zebras are black with white stripes.", "answer": "False"}
+{"topic": "Animals", "question": "Horses can only sleep while standing up.", "answer": "False"}
+{"topic": "Animals", "question": "Rats are unable to vomit.", "answer": "True"}
+{"topic": "Animals", "question": "All owls are nocturnal.", "answer": "False"}
+{"topic": "Animals", "question": "Komodo dragons are native to Australia.", "answer": "False"}
+{"topic": "Animals", "question": "Reindeer are the only deer species where both males and females grow antlers.", "answer": "True"}
+{"topic": "Animals", "question": "Bearded dragons are actually a type of lizard.", "answer": "True"}
+{"topic": "Animals", "question": "Scorpions are capable of living without food for a year.", "answer": "True"}
+{"topic": "Animals", "question": "Albatrosses can sleep while flying.", "answer": "True"}
+{"topic": "Animals", "question": "Kangaroos can walk backward easily.", "answer": "False"}
+{"topic": "Animals", "question": "Hummingbirds are the only birds that can fly backward.", "answer": "True"}
+{"topic": "Animals", "question": "Elephants are afraid of mice.", "answer": "False"}
+{"topic": "Animals", "question": "All penguins live in cold climates.", "answer": "False"}
+{"topic": "Animals", "question": "Monarch butterflies migrate thousands of miles in search of warmer weather.", "answer": "True"}
+{"topic": "Animals", "question": "Poison dart frogs derive their toxicity from their diet in the wild.", "answer": "True"}
+{"topic": "Animals", "question": "Sloths only defecate once a week.", "answer": "True"}
+{"topic": "Animals", "question": "A group of owls is called a \"parliament.\"", "answer": "True"}
+{"topic": "Animals", "question": "Bees have five eyes.", "answer": "True"}
+{"topic": "Animals", "question": "Anteaters have no teeth.", "answer": "True"}
+{"topic": "Animals", "question": "Alligators can climb trees.", "answer": "False"}
+{"topic": "Animals", "question": "Armadillos can roll themselves into a ball for protection.", "answer": "True"}
+{"topic": "Animals", "question": "Otters hold hands while sleeping to avoid drifting apart.", "answer": "True"}
+{"topic": "Animals", "question": "Zebras' stripes are as unique as human fingerprints.", "answer": "False"}
+{"topic": "Animals", "question": "Koalas sleep up to 20 hours a day.", "answer": "True"}
+{"topic": "Animals", "question": "Polar bears are excellent swimmers and have been known to swim long distances.", "answer": "True"}
+{"topic": "Animals", "question": "Tasmanian devils are herbivores.", "answer": "False"}
+{"topic": "Animals", "question": "Raccoons wash their food before eating it.", "answer": "True"}
+{"topic": "Animals", "question": "Crocodiles have the ability to cry tears.", "answer": "False"}
+{"topic": "Animals", "question": "Cows can't see the color red.", "answer": "False"}
+{"topic": "Animals", "question": "Seahorses are the only animals in which the males give birth.", "answer": "True"}
+{"topic": "Animals", "question": "Hermit crabs can make sounds to communicate with each other.", "answer": "False"}
+{"topic": "Animals", "question": "Squids have three hearts.", "answer": "True"}
+{"topic": "Animals", "question": "Lemmings commit mass suicide.", "answer": "False"}
+{"topic": "Animals", "question": "Puffins mate for life.", "answer": "False"}
+{"topic": "Animals", "question": "Bees can recognize human faces.", "answer": "True"}
+{"topic": "Animals", "question": "Chinchillas have the softest fur of any land animal.", "answer": "True"}
+{"topic": "Animals", "question": "Cats have five toes on their front paws and four toes on their back paws.", "answer": "True"}
+{"topic": "Animals", "question": "Owls can swivel their heads 360 degrees.", "answer": "False"}
+{"topic": "Animals", "question": "Komodo dragons are immune to their own venom.", "answer": "True"}
+{"topic": "Animals", "question": "Camels store water in their humps.", "answer": "False"}
+{"topic": "Food", "question": "Pineapple is a natural diuretic.", "answer": "True"}
+{"topic": "Food", "question": "Quinoa is a type of cereal grain.", "answer": "True"}
+{"topic": "Food", "question": "Watermelons are a type of berry.", "answer": "False"}
+{"topic": "Food", "question": "Oranges are a good source of Vitamin E.", "answer": "False"}
+{"topic": "Food", "question": "Avocados are considered a fruit.", "answer": "True"}
+{"topic": "Food", "question": "Bananas are technically berries.", "answer": "True"}
+{"topic": "Food", "question": "Brown eggs are more nutritious than white eggs.", "answer": "False"}
+{"topic": "Food", "question": "Macadamia nuts are toxic to dogs.", "answer": "True"}
+{"topic": "Food", "question": "The sweet potato is a type of tuber.", "answer": "True"}
+{"topic": "Food", "question": "Champagne must come from the Champagne region of France to be considered authentic.", "answer": "True"}
+{"topic": "Food", "question": "Saffron is the most expensive spice in the world by weight.", "answer": "True"}
+{"topic": "Food", "question": "Honey never spoils.", "answer": "True"}
+{"topic": "Food", "question": "Durian is known for its pleasant aroma.", "answer": "False"}
+{"topic": "Food", "question": "Most wasabi served in restaurants is real wasabi.", "answer": "False"}
+{"topic": "Food", "question": "Almonds are a type of nut.", "answer": "False"}
+{"topic": "Food", "question": "It is safe to eat green potatoes as long as they are cooked thoroughly.", "answer": "False"}
+{"topic": "Food", "question": "Lemons float in water while limes sink.", "answer": "True"}
+{"topic": "Food", "question": "The popular dessert Tiramisu originated in France.", "answer": "False"}
+{"topic": "Food", "question": "Dark chocolate is a good source of antioxidants.", "answer": "True"}
+{"topic": "Food", "question": "Coconuts are classified as a fruit, despite their name.", "answer": "True"}
+{"topic": "Food", "question": "Peanuts are not actually nuts.", "answer": "True"}
+{"topic": "Food", "question": "Quail eggs are larger than chicken eggs.", "answer": "False"}
+{"topic": "Food", "question": "Honeydew and cantaloupe are the same fruit.", "answer": "False"}
+{"topic": "Food", "question": "Ketchup was once sold as medicine.", "answer": "True"}
+{"topic": "Food", "question": "Olives are classified as a fruit.", "answer": "True"}
+{"topic": "Food", "question": "Popcorn kernels can explode if overheated.", "answer": "True"}
+{"topic": "Food", "question": "Cilantro and coriander come from the same plant.", "answer": "True"}
+{"topic": "Food", "question": "Artichokes are flowers that are eaten before they bloom.", "answer": "True"}
+{"topic": "Food", "question": "Vanilla extract is made from the vanilla bean plant.", "answer": "True"}
+{"topic": "Food", "question": "Tofu is always vegan.", "answer": "False"}
+{"topic": "Food", "question": "Allspice is a blend of different spices.", "answer": "False"}
+{"topic": "Food", "question": "Radishes come in only one color.", "answer": "False"}
+{"topic": "Food", "question": "Pomegranates are a type of citrus fruit.", "answer": "False"}
+{"topic": "Food", "question": "Pumpkins are a fruit, not a vegetable.", "answer": "True"}
+{"topic": "Food", "question": "Celery has negative calories, meaning you burn more calories digesting it.", "answer": "True"}
+{"topic": "Food", "question": "Coconut water can be used as a substitute for blood plasma in emergencies.", "answer": "True"}
+{"topic": "Food", "question": "Saffron is often used to give dishes a yellow color.", "answer": "True"}
+{"topic": "Food", "question": "Peaches belong to the same family as plums and cherries.", "answer": "True"}
+{"topic": "Food", "question": "Brussels sprouts are mini cabbages.", "answer": "True"}
+{"topic": "Food", "question": "Oysters are considered a vegetarian food.", "answer": "False"}
+{"topic": "Food", "question": "Chia seeds are a good source of omega-3 fatty acids.", "answer": "True"}
+{"topic": "Food", "question": "Sriracha sauce is named after a city in Thailand.", "answer": "False"}
+{"topic": "Food", "question": "Cucumbers are considered a fruit.", "answer": "True"}
+{"topic": "Food", "question": "Maple syrup is harvested from the bark of maple trees.", "answer": "False"}
+{"topic": "Food", "question": "Worcestershire sauce contains anchovies.", "answer": "True"}
+{"topic": "Food", "question": "Quinoa is a complete protein, containing all nine essential amino acids.", "answer": "True"}
+{"topic": "Food", "question": "Bagels originated in France.", "answer": "False"}
+{"topic": "Food", "question": "The world's hottest chili pepper is the Carolina Reaper.", "answer": "True"}
+{"topic": "Food", "question": "Wasabi is a type of horseradish.", "answer": "True"}
+{"topic": "Food", "question": "The herb basil is a key ingredient in pesto.", "answer": "True"}
+{"topic": "Food", "question": "Sushi should always be dipped fish-side down into soy sauce.", "answer": "True"}
+{"topic": "Food", "question": "Turmeric is commonly used in curry dishes and known for its vibrant yellow color.", "answer": "True"}
+{"topic": "Food", "question": "The patty in a traditional Beef Wellington is typically made of ground pork.", "answer": "False"}
+{"topic": "Food", "question": "Ice cream was originally a luxury dessert enjoyed by the elite.", "answer": "True"}
+{"topic": "Food", "question": "Matcha is a type of powdered green tea.", "answer": "True"}
+{"topic": "Food", "question": "Sourdough bread is leavened using commercial yeast.", "answer": "False"}
+{"topic": "Food", "question": "A cronut is a hybrid pastry that combines a croissant and a donut.", "answer": "True"}
+{"topic": "Food", "question": "Bulgogi is a Korean dish consisting of marinated raw fish.", "answer": "False"}
+{"topic": "Food", "question": "Feta cheese is traditionally made from cow's milk.", "answer": "False"}
+{"topic": "Food", "question": "Scallops are a type of shellfish.", "answer": "True"}
+{"topic": "Food", "question": "Quinoa is a type of seed.", "answer": "False"}
+{"topic": "Food", "question": "Spinach is high in iron.", "answer": "True"}
+{"topic": "Food", "question": "Cumin is a type of herb.", "answer": "False"}
+{"topic": "Food", "question": "Oysters are a good source of zinc.", "answer": "True"}
+{"topic": "Food", "question": "Peanuts grow on underground roots.", "answer": "False"}
+{"topic": "Food", "question": "Kiwifruit originally comes from China.", "answer": "True"}
+{"topic": "Food", "question": "Celery is a good source of vitamin C.", "answer": "False"}
+{"topic": "Food", "question": "Tofu is always made from soybeans.", "answer": "False"}
+{"topic": "Food", "question": "Nutmeg is derived from the inner seed of a fruit.", "answer": "True"}
+{"topic": "Food", "question": "Goji berries are low in antioxidants.", "answer": "False"}
+{"topic": "Food", "question": "Guacamole is a traditional Mexican dish made from avocados.", "answer": "True"}
+{"topic": "Food", "question": "Turmeric is commonly used for its natural blue color.", "answer": "False"}
+{"topic": "Food", "question": "Cumin is a key ingredient in traditional Mexican cuisine.", "answer": "True"}
+{"topic": "Food", "question": "Kimchi is a staple in Korean cuisine and is made from fermented cabbage.", "answer": "True"}
+{"topic": "Food", "question": "Chickpeas are high in protein.", "answer": "True"}
+{"topic": "Food", "question": "Fennel seeds are often used to flavor sausages.", "answer": "True"}
+{"topic": "Food", "question": "Pomegranate seeds are toxic to consume.", "answer": "False"}
+{"topic": "Food", "question": "Mustard seeds are typically black in color.", "answer": "True"}
+{"topic": "Food", "question": "Asparagus is a type of fruit.", "answer": "False"}
+{"topic": "Food", "question": "Mangoes are a significant source of vitamin A.", "answer": "True"}
+{"topic": "History", "question": "The Great Wall of China was built in one continuous construction effort.", "answer": "False"}
+{"topic": "History", "question": "The city of Rome was founded in 753 BC.", "answer": "True"}
+{"topic": "History", "question": "The American Civil War ended in 1865.", "answer": "True"}
+{"topic": "History", "question": "Cleopatra was the last pharaoh of ancient Egypt.", "answer": "True"}
+{"topic": "History", "question": "The Russian Revolution of 1917 led to the creation of the Soviet Union.", "answer": "True"}
+{"topic": "History", "question": "The Black Death pandemic originated in Asia in the 14th century.", "answer": "True"}
+{"topic": "History", "question": "The French Revolution lasted from 1789 to 1799.", "answer": "True"}
+{"topic": "History", "question": "The Renaissance period began in the 14th century.", "answer": "True"}
+{"topic": "History", "question": "The Industrial Revolution began in Britain in the 18th century.", "answer": "True"}
+{"topic": "History", "question": "The ancient city of Petra is located in modern-day Turkey.", "answer": "False"}
+{"topic": "History", "question": "The Berlin Wall fell in 1989, leading to the reunification of Germany.", "answer": "True"}
+{"topic": "History", "question": "The Battle of Hastings took place in 1066.", "answer": "True"}
+{"topic": "History", "question": "The ancient civilization of Mesopotamia was located in present-day Egypt.", "answer": "False"}
+{"topic": "History", "question": "The Magna Carta was signed in 1215 by King Edward I of England.", "answer": "False"}
+{"topic": "History", "question": "The opium wars between China and Great Britain occurred in the 19th century.", "answer": "True"}
+{"topic": "History", "question": "The first successful powered airplane was built by the Wright brothers in 1903.", "answer": "True"}
+{"topic": "History", "question": "The Inca Empire was located in present-day Mexico.", "answer": "False"}
+{"topic": "History", "question": "The Treaty of Versailles officially ended World War I.", "answer": "True"}
+{"topic": "History", "question": "The Taj Mahal was built as a mausoleum in memory of an emperor's wife.", "answer": "True"}
+{"topic": "History", "question": "The Mayans were an ancient civilization that thrived in Central America.", "answer": "True"}
+{"topic": "History", "question": "The pyramids of Giza were constructed during the Old Kingdom of ancient Egypt.", "answer": "True"}
+{"topic": "History", "question": "The Mongol Empire was the largest contiguous land empire in history.", "answer": "True"}
+{"topic": "History", "question": "The Spanish Armada was defeated by England in 1588.", "answer": "True"}
+{"topic": "History", "question": "The War of 1812 between the United States and Britain lasted for seven years.", "answer": "False"}
+{"topic": "History", "question": "The Statue of Liberty was a gift from France to the United States in the 19th century.", "answer": "True"}
+{"topic": "History", "question": "The phrase \"Let them eat cake\" is commonly attributed to Marie Antoinette during the French Revolution.", "answer": "False"}
+{"topic": "History", "question": "The Cold War ended with the dissolution of the Soviet Union in 1991.", "answer": "True"}
+{"topic": "History", "question": "The Battle of Thermopylae was fought between the Greek city-states and the Persian Empire.", "answer": "True"}
+{"topic": "History", "question": "The Cuban Missile Crisis occurred in 1962 during the presidency of John F. Kennedy.", "answer": "True"}
+{"topic": "History", "question": "The Emancipation Proclamation issued by Abraham Lincoln in 1863 freed all slaves in the United States.", "answer": "False"}
+{"topic": "History", "question": "The Great Fire of London in 1666 led to widespread destruction of the city but no deaths.", "answer": "False"}
+{"topic": "History", "question": "The United Nations was established in 1919 after World War I.", "answer": "False"}
+{"topic": "History", "question": "The Boxer Rebellion in China was a movement against foreign influence and imperialism in the late 19th century.", "answer": "True"}
+{"topic": "History", "question": "The Pilgrims landed at Plymouth Rock in 1620 seeking religious freedom.", "answer": "True"}
+{"topic": "History", "question": "The Louisiana Purchase in 1803 doubled the size of the United States.", "answer": "True"}
+{"topic": "History", "question": "The Battle of Gettysburg was a turning point in the American Civil War.", "answer": "True"}
+{"topic": "History", "question": "The League of Nations was the predecessor to the United Nations.", "answer": "True"}
+{"topic": "History", "question": "The Treaty of Tordesillas divided the New World between Spain and Portugal in the 15th century.", "answer": "True"}
+{"topic": "History", "question": "The Battle of Stalingrad was a decisive victory for the Axis powers during World War II.", "answer": "False"}
+{"topic": "History", "question": "The gunpowder plot of 1605 was an attempt to assassinate King James I of England.", "answer": "True"}
+{"topic": "History", "question": "The city of Athens was the capital of ancient Greece.", "answer": "True"}
+{"topic": "History", "question": "The Battle of Waterloo took place in 1815, marking the defeat of Napoleon Bonaparte.", "answer": "True"}
+{"topic": "History", "question": "The Great Depression of the 1930s originated in the United States.", "answer": "True"}
+{"topic": "History", "question": "Genghis Khan was the founder and first Great Khan of the Mongol Empire.", "answer": "True"}
+{"topic": "History", "question": "The Ottoman Empire ruled over parts of Europe, Asia, and Africa for over 600 years.", "answer": "True"}
+{"topic": "History", "question": "The Renaissance was a period of great cultural and artistic rebirth that began in Italy in the 14th century.", "answer": "True"}
+{"topic": "History", "question": "The Industrial Revolution brought about mechanization and urbanization in many parts of the world.", "answer": "True"}
+{"topic": "History", "question": "The American Revolutionary War began in 1775 and resulted in the independence of the United States from Great Britain.", "answer": "True"}
+{"topic": "History", "question": "The Battle of Marathon in 490 BC was a crucial victory for the Greeks over the Persians.", "answer": "True"}
+{"topic": "History", "question": "The transatlantic slave trade primarily involved the transportation of African slaves to the Americas.", "answer": "True"}
+{"topic": "History", "question": "The Normans, led by William the Conqueror, invaded England in 1066 in the Battle of Hastings.", "answer": "True"}
+{"topic": "History", "question": "The city of Pompeii was destroyed by the eruption of Mount Vesuvius in 79 AD.", "answer": "True"}
+{"topic": "History", "question": "The moon landing by Apollo 11 astronauts in 1969 was a pivotal moment in human history.", "answer": "True"}
+{"topic": "History", "question": "The Treaty of Paris in 1783 officially ended the American Revolutionary War and recognized the independence of the United States.", "answer": "True"}
+{"topic": "History", "question": "The Berlin Airlift of 1948-1949 was a massive Allied operation to deliver supplies to West Berlin during the Soviet blockade.", "answer": "True"}
+{"topic": "History", "question": "The partition of India in 1947 led to the creation of two independent nations, India and Pakistan.", "answer": "True"}
+{"topic": "History", "question": "The Mongols established the largest empire in history under the leadership of Kublai Khan.", "answer": "False"}
+{"topic": "History", "question": "The Blackbeard the Pirate operated in the Caribbean during the 17th century.", "answer": "False"}
+{"topic": "History", "question": "The Prohibition era in the United States banned the sale and consumption of alcohol from 1920 to 1933.", "answer": "False"}
+{"topic": "History", "question": "The first successful human heart transplant was performed by Dr. Christiaan Barnard of South Africa in 1967.", "answer": "False"}
+{"topic": "History", "question": "The Battle of Troy, as depicted in Homer's epic poems, actually took place in history.", "answer": "False"}
+{"topic": "History", "question": "The Spanish Inquisition targeted only Muslims and Jews in Spain during the Middle Ages.", "answer": "False"}
+{"topic": "History", "question": "The Great Famine in Ireland in the mid-19th century was caused by a potato blight.", "answer": "True"}
+{"topic": "History", "question": "The Wright brothers were the first humans to successfully fly a powered, heavier-than-air aircraft.", "answer": "True"}
+{"topic": "History", "question": "The Ming Dynasty ruled China from the 14th to the 17th century.", "answer": "True"}
+{"topic": "History", "question": "The Trail of Tears in the 19th century forced the relocation of Native American tribes from the Southeastern United States.", "answer": "True"}
+{"topic": "History", "question": "The construction of the Panama Canal was completed in the early 20th century.", "answer": "True"}
+{"topic": "History", "question": "The Black Panther Party was founded in the 1960s to combat police brutality and promote civil rights.", "answer": "True"}
+{"topic": "History", "question": "The Suez Crisis of 1956 involved a military conflict over control of the Suez Canal.", "answer": "True"}
+{"topic": "History", "question": "The British East India Company was granted power to rule India by the British government.", "answer": "True"}
+{"topic": "History", "question": "The Battle of Saratoga during the American Revolutionary War was a significant turning point that convinced France to support the American cause.", "answer": "True"}
+{"topic": "History", "question": "The Bubonic Plague, also known as the Black Death, had a mortality rate of close to 50% during the 14th century pandemic.", "answer": "False"}
+{"topic": "History", "question": "The Opium Wars between China and Great Britain were fought over the trade imbalance caused by Chinese demand for British goods.", "answer": "False"}
+{"topic": "History", "question": "The Trail of Tears was a voluntary journey undertaken by Native American tribes to relocate to new territories in the West.", "answer": "False"}
+{"topic": "History", "question": "The construction of the Transcontinental Railroad in the United States was completed in the 19th century, connecting the East and West coasts.", "answer": "True"}
+{"topic": "History", "question": "The Cuban Revolution led by Fidel Castro overthrew the government of Fulgencio Batista in 1959.", "answer": "True"}
+{"topic": "History", "question": "The Vietnam War officially ended with the fall of Saigon in 1975.", "answer": "True"}
+{"topic": "History", "question": "The Great Chicago Fire of 1871 was caused by a cow kicking over a lantern in a barn.", "answer": "False"}
+{"topic": "History", "question": "The Cold War era saw the division of Germany into East and West Germany.", "answer": "True"}
+{"topic": "History", "question": "The Magna Carta was a document that limited the power of the English monarch and protected the rights of nobles.", "answer": "True"}
