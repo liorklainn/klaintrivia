@@ -1548,5 +1548,405 @@
         "topic": "History",
         "question": "The Magna Carta was a document that limited the power of the English monarch and protected the rights of nobles.",
         "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "The atomic symbol for gold is \"Au\".",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "The Earth is the largest planet in our solar system.",
+        "answer": "False"
+    },
+    {
+        "topic": "Science",
+        "question": "Sound travels faster in water than in air.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "The process of plants converting light energy into chemical energy is called photosynthesis.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "An octopus has three hearts.",
+        "answer": "False"
+    },
+    {
+        "topic": "Science",
+        "question": "The human body has a total of 206 bones.",
+        "answer": "False"
+    },
+    {
+        "topic": "Science",
+        "question": "The Earth's core is primarily composed of iron and nickel.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "Dolphins are mammals.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "Aluminum is a good conductor of electricity.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "The main gas that makes up the Earth's atmosphere is oxygen.",
+        "answer": "False"
+    },
+    {
+        "topic": "Science",
+        "question": "The process of a liquid turning into a gas at the surface of the liquid is called condensation.",
+        "answer": "False"
+    },
+    {
+        "topic": "Science",
+        "question": "The Great Wall of China is visible from space.",
+        "answer": "False"
+    },
+    {
+        "topic": "Science",
+        "question": "The concept of inertia is one of Newton's laws of motion.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "The chemical symbol for water is H2O.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "The human brain continues to develop until around the age of 25.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "Salt is composed of sodium chloride.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "Venus is the hottest planet in our solar system.",
+        "answer": "True"
+    },
+    {
+        "topic": "Science",
+        "question": "A light-year is a unit of time.",
+        "answer": "False"
+    },
+    {
+        "topic": "Science",
+        "question": "Electrons have a positive charge.",
+        "answer": "False"
+    },
+    {
+        "topic": "Science",
+        "question": "Rainbows are formed due to the reflection, refraction, and dispersion of light.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "Any number raised to the power of zero is always zero.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "The square root of a negative number is always imaginary.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "Parallel lines have the same slope.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "An irrational number can be expressed as a fraction.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "The sum of the interior angles of a triangle is always 180 degrees.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "The value of \u03c0",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "In a right triangle, the square of the hypotenuse is equal to the sum of the squares of the other two sides.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "The number zero is an even number.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "The mathematical constant 'e' is equal to 3.0.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "A polynomial of degree 2 is called a quadratic equation.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "The Fibonacci sequence is an example of a geometric progression.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "Vectors have magnitude but not direction.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "The golden ratio is equal to 1.618.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "A prime number is a natural number greater than 1 that has only two distinct positive divisors: 1 and itself.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "The distributive property states that a(b + c) = ab + ac for all real numbers a, b, and c.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "The number 1 is considered a prime number.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "The derivative of a constant function is always zero.",
+        "answer": "True"
+    },
+    {
+        "topic": "Math",
+        "question": "The logarithm base 10 is also known as the natural logarithm.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "Pascal's Triangle is a geometric shape.",
+        "answer": "False"
+    },
+    {
+        "topic": "Math",
+        "question": "In a circle, the ratio of the circumference to the diameter is equal to the constant \u03c0.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Balfour Declaration of 1917 expressed British support for the establishment of a \"national home\" for the Jewish people in Palestine.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The State of Israel was officially established in 1948 by a United Nations resolution.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Six-Day War in 1967 resulted in Israel gaining control of the Sinai Peninsula, Gaza Strip, West Bank, and Golan Heights.",
+        "answer": "False"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Yom Kippur War of 1973 was initiated by a surprise attack on Israel by neighboring Arab nations.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "Jerusalem has been the capital of Israel since the country's founding in 1948.",
+        "answer": "False"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Oslo Accords of 1993 aimed to establish a framework for peace negotiations between Israel and the Palestinians.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Israeli settlement of Ariel is located in the West Bank.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Gaza Strip has been under direct Israeli control since 2005.",
+        "answer": "False"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Camp David Accords of 1978 led to a peace treaty between Israel and Egypt.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The city of Tel Aviv was established in the early 20th century before Israel's independence.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The United Nations granted Israel the status of a non-member observer state in 2012.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The British Mandate for Palestine was established after World War I by the League of Nations.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Haganah was a Jewish paramilitary organization during the British Mandate period.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The United Nations Partition Plan for Palestine proposed the division of the territory into separate Jewish and Arab states.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Iron Dome is a missile defense system used by Israel to intercept short-range rockets.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Second Intifada, also known as the Al-Aqsa Intifada, began in 2000 following Ariel Sharon's visit to the Temple Mount in Jerusalem.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "Israel signed a peace treaty with Lebanon in 1983, ending decades of conflict.",
+        "answer": "False"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Druze community in Israel is mainly concentrated in the Galilee region.",
+        "answer": "True"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Knesset is the Israeli parliament, located in the city of Haifa.",
+        "answer": "False"
+    },
+    {
+        "topic": "Israel History",
+        "question": "The Lebanon War of 2006 was primarily fought between Israel and Syria.",
+        "answer": "False"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "David Ben Gurion was the first Prime Minister of Israel.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion was born in Russia.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion served as Prime Minister of Israel for over 20 years.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "He was a key figure in the establishment of the state of Israel.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion was known for his strong leadership style and determination.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "He played a significant role in the Israeli War of Independence.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion was the leader of the Labor Party in Israel.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "He was a vocal advocate for Jewish immigration to Palestine.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion was involved in the founding of the Israeli Defense Forces.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "He declared the independence of the State of Israel in 1948.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion was awarded the Nobel Peace Prize for his efforts in diplomacy.",
+        "answer": "False"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "He had a background in engineering and law.",
+        "answer": "False"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion retired from politics in his early 50s.",
+        "answer": "False"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "He was known for his negotiations with neighboring Arab countries.",
+        "answer": "False"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion was born into a wealthy family in Poland.",
+        "answer": "False"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "He was a strong supporter of the Zionist movement.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion was known for his commitment to social justice and equality.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "He was a skilled military strategist during times of conflict.",
+        "answer": "True"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "Ben Gurion passed away in the 1990s.",
+        "answer": "False"
+    },
+    {
+        "topic": "David Ben Gurion",
+        "question": "His vision for Israel focused on technological advancements and innovation.",
+        "answer": "True"
     }
 ]

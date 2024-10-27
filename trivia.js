@@ -103,9 +103,9 @@ function startTimer() {
 function getInitialTime() {
     switch (selectedDifficulty) {
         case 'easy':
-            return 30;
+            return 45;
         case 'medium':
-            return 20;
+            return 30;
         case 'hard':
             return 15;
         default:
